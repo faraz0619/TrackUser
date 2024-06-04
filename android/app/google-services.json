@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550801704927",
+    "project_id": "trackuser-6879a",
+    "storage_bucket": "trackuser-6879a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550801704927:android:e0ef8309645cd92e17a66a",
+        "android_client_info": {
+          "package_name": "com.trackuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal6cMcSFEWsQehvSvkd4u-WBz6I0p_vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
